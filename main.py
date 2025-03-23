@@ -1,4 +1,3 @@
-# This is a sample Python script.
 
 # Press Shift+F6 to execute it or replace it with your code.
 
@@ -29,7 +28,6 @@ def reverseString(ins):
         rez.append(strList[llength-1-x])
     
     retVal = "".join(rez)
-    #print(llength)
     
     return retVal
 
